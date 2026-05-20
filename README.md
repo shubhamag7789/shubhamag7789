@@ -18,73 +18,19 @@
 
 # 🚀 About Me
 
-const shubham = {
+## 🚀 About Me
 
-    education: "B.Tech Computer Science Engineering",
-    university: "BML Munjal University",
-    graduation: "2027",
+🎓 B.Tech Computer Science Engineering student at **BML Munjal University** with a strong foundation in **Software Engineering, Data Structures & Algorithms, Operating Systems, DBMS, and Computer Networks**.
 
-    interests: [
-        "Full Stack Development",
-        "AI & Machine Learning",
-        "Backend Engineering",
-        "System Design",
-        "Computer Networks",
-        "Scalable Applications"
-    ],
+💻 Passionate about building **scalable full-stack applications**, **backend systems**, and **AI-driven solutions** with hands-on experience in **React.js, Node.js, Express.js, MongoDB, C++, Python, Java, SQL, and REST APIs**.
 
-    currentlyLearning: [
-        "LLMs",
-        "RAG Architecture",
-        "Vector Embeddings",
-        "Cloud & DevOps",
-        "Advanced Backend Systems"
-    ],
+🧠 Interested in **System Design, Backend Engineering, Artificial Intelligence, RAG Architecture, LLMs, Vector Embeddings, and Scalable Software Systems**.
 
-    techStack: {
-        frontend: [
-            "React.js",
-            "HTML",
-            "CSS",
-            "JavaScript"
-        ],
+🚀 Built projects including a **Deep Packet Inspection (DPI) Engine** for real-time network traffic analysis, a **MERN-based Fitness Tracking Application**, and an **AI-powered RAG-based SEBI Document Retrieval System**.
 
-        backend: [
-            "Node.js",
-            "Express.js",
-            "REST APIs"
-        ],
+⚙️ Experienced with **Git, GitHub, Docker, Postman, VS Code, Multithreading, PCAP, Cloud & DevOps basics**, and modern software development workflows.
 
-        database: [
-            "MongoDB",
-            "MySQL"
-        ],
-
-        languages: [
-            "C++",
-            "Python",
-            "Java",
-            "SQL"
-        ],
-
-        ai_ml: [
-            "TensorFlow Lite",
-            "RAG",
-            "LLMs",
-            "Vector Embeddings"
-        ],
-
-        tools: [
-            "Git",
-            "GitHub",
-            "Postman",
-            "VS Code",
-            "Docker"
-        ]
-    },
-
-    focus: "Building production-ready scalable applications"
-};
+📚 Continuously learning and exploring emerging technologies while focusing on building impactful products, improving problem-solving skills, and growing as a Software Engineer.
 
 ---
 
