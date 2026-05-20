@@ -18,7 +18,6 @@
 
 # 🚀 About Me
 
-```javascript
 const shubham = {
 
     education: "B.Tech Computer Science Engineering",
@@ -86,7 +85,6 @@ const shubham = {
 
     focus: "Building production-ready scalable applications"
 };
-```
 
 ---
 
